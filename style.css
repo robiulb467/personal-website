@@ -2,6 +2,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    margin: 0px;
 }
 h1{
     font-size: 50px;
@@ -34,15 +35,4 @@ h1{
     font-weight: 100;
     border-radius: 5px;
     padding: 10px;
-}
-
-.project{
-    width: 20%;
-    border: 2px white;
-    padding: 3%;
-    margin: 2%;
-    
-}
-.project img{
-    width: 100%;
 }
