@@ -38,7 +38,7 @@ h1{
 
 .project{
     width: 20%;
-    float: left;
+    border: 2px white;
     padding: 3%;
     margin: 2%;
     
