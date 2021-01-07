@@ -6,19 +6,43 @@ body{
 h1{
     font-size: 50px;
 }
+.cen{
+    text-align: center;
+}
+
 
 .name-color{
     color: tomato;
 }
-.hello-area{
-    padding-bottom: 150px;
-}
+
+
 .hello{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left:2% ;
+    
 }
+
 .hello img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    color: white;
+    font-weight: 100;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.project{
+    width: 20%;
+    float: left;
+    padding: 3%;
+    margin: 2%;
+    
+}
+.project img{
     width: 100%;
 }
